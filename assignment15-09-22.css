@@ -317,6 +317,7 @@ nav ul li a{
 .end1 a{
     text-decoration: none;
     padding: 10px;
+    color: #3fbe3f;
 }
 .bottom1{
     display: flex;
