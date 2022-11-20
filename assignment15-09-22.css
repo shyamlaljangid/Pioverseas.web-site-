@@ -318,6 +318,10 @@ nav ul li a{
     text-decoration: none;
     padding: 10px;
     color: #3fbe3f;
+    border: 2px solid;
+}
+.end a i{
+    color: #369229;
 }
 .bottom1{
     display: flex;
