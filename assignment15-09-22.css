@@ -281,7 +281,7 @@ nav ul li a{
 #apply{
     background-color: green;
     width: 158px;
-    /* height: 40px; */
+    height: 40px;
     /* padding: 10px; */
 }
 #apply a{
