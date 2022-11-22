@@ -1,4 +1,4 @@
-* {
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -209,7 +209,7 @@ nav ul li a{
 .boxes .box .text{
     padding: 10px;
     margin: 10px;
-    /* background-color: aliceblue; */
+    background-color: aliceblue;
 }
 .box .text h3{
     font-size: 22px;
@@ -322,6 +322,7 @@ nav ul li a{
 }
 .end a i{
     color: #369229;
+    position: relative;
 }
 .bottom1{
     display: flex;
